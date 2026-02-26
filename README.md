@@ -1,5 +1,5 @@
 # Proyecto A* Pathfinding - Navegación Autónoma
-Este proyecto forma parte del módulo de Programación de Inteligencia Artificial[cite: 16].
+Este proyecto forma parte del módulo de Programación de Inteligencia Artificial.
 
 ## 1. Fase de Investigación
 El algoritmo A* es un algoritmo de búsqueda de caminos que encuentra la ruta más corta entre un nodo de origen y uno de destino. Utiliza la fórmula:
